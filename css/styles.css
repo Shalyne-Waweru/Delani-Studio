@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-/*Welcome Info*/
+/*Welcome Section Info*/
 .welcome {
   background-image: url(../assets/backgrounds/h_img.jpg);
   background-size: cover;
@@ -42,4 +42,13 @@
   margin-top: 205px;
   margin-bottom: 20px;
   margin-left: 40px;
+}
+
+/*About Us Section Info*/
+.about {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 40px;
+  color: black;
+  margin-bottom: 50px;
 }
