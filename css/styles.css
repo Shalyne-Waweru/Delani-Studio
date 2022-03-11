@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*Welcome Info*/
+.welcome {
+  background-image: url(../assets/backgrounds/h_img.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin-top: 330px;
+  margin-left: 50px;
+}
+
+.welcome-text {
+  margin-top: 65px;
+  margin-left: 40px;
+  text-align: center;
+  color: white;
+}
+
+.welcome-text h1 {
+  font-size: 55px;
+}
+
+.welcome-text p {
+  margin-top: 15px;
+}
+
+.delani {
+  margin-top: 40px;
+}
+
+.mouse-click {
+  margin-top: 205px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+}
