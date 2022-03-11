@@ -16,7 +16,7 @@
 
 .logo {
   margin-top: 330px;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 
 .welcome-text {
@@ -68,6 +68,7 @@
 
 .services-text {
   margin-top: 70px;
+  margin-left: 50px;
 }
 
 /*What We Do Section Styles*/
@@ -77,10 +78,37 @@
   margin-bottom: 50px;
 }
 
+.what-we-do h3{
+  margin-left: 50px;
+}
+
 .solutions {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   margin-left: 130px;
   margin-top: 30px;
+}
+
+/*Portfolio Section Styles*/
+.portfolio {
+  margin-bottom: 30px;
+}
+
+.portfolio h3 {
+  text-align: center;
+  margin-left: 50px;
+}
+
+.col-md-3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.col-md-3 img {
+  margin-left: 25px;
+  width: 300px;
 }
