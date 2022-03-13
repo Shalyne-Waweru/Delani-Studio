@@ -47,4 +47,25 @@ $(document).ready(function(){
   $(".project-8").hover(function(){
     $(".btn-8").toggle();
   });
+
+  //Contact Form Submit Outputs
+  $(".btn").click(function(){
+    let inputName = document.querySelector(".name").value;
+    let inputEmail = document.querySelector(".email").value;
+    let message = document.querySelector("textarea").value;
+    
+    if(inputName === ""){
+      alert("Enter you name!");
+    }
+    else if (inputEmail === ""){
+      alert("Enter you email!");
+    }
+    else if (message === ""){
+      alert("Enter your message!");
+    }
+    else{
+      alert("Hey " + inputName + " we have received your message. Thank you for reaching out to us.")
+    }
+
+  });
 });
