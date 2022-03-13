@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -127,6 +129,129 @@
   margin-left: 25px;
   width: 300px;
 }
+
+/*Portfolio: Project 1 Styles*/
+.project-1{
+  position: relative;
+  text-align: center;
+}
+
+.project-1:hover img{
+  opacity: 0.6;
+  transition: .5s ease;
+}
+
+.btn-1 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 2 Styles*/
+.project-2{
+  position: relative;
+  text-align: center;
+}
+
+.project-2:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-2 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 3 Styles*/
+.project-3{
+  position: relative;
+  text-align: center;
+}
+
+.project-3:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-3 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 4 Styles*/
+.project-4{
+  position: relative;
+  text-align: center;
+}
+
+.project-4:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-4 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 5 Styles*/
+.project-5{
+  position: relative;
+  text-align: center;
+}
+
+.project-5:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-5 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/* .project-title-2 {
+  position: absolute;
+  font-size: 22px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  font-family: 'Lobster', cursive;
+  opacity: 1;
+  display: none;
+  background-color:rgb(209, 194, 164);
+  border-radius: 15px;
+} */
 
 /*Contact Us Section Styles*/
 .contact {
