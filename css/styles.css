@@ -370,6 +370,26 @@ textarea {
   text-indent: 10px;
 }
 
+.btn {
+  background-color: rgb(54, 39, 10);
+  color: white;
+  font-size: 18px;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 30px;
+  border: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn:hover {
+  color: black;
+  background-color: bisque;
+}
+
 /*Social Media Links Section Styles*/
 .social {
   display: flex;
