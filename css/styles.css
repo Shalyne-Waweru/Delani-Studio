@@ -163,3 +163,15 @@ textarea {
   color: white;
   text-indent: 10px;
 }
+
+/*Social Media Links Section Styles*/
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.social img {
+  margin-left: 20px;
+}
