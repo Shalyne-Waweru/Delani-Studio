@@ -31,4 +31,20 @@ $(document).ready(function(){
   $(".project-4").hover(function(){
     $(".btn-4").toggle();
   });
+
+  $(".project-5").hover(function(){
+    $(".btn-5").toggle();
+  });
+
+  $(".project-6").hover(function(){
+    $(".btn-6").toggle();
+  });
+
+  $(".project-7").hover(function(){
+    $(".btn-7").toggle();
+  });
+
+  $(".project-8").hover(function(){
+    $(".btn-8").toggle();
+  });
 });

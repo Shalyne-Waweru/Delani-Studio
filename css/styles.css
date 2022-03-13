@@ -240,6 +240,72 @@
   display: none;
 }
 
+/*Portfolio: Project 6 Styles*/
+.project-6{
+  position: relative;
+  text-align: center;
+}
+
+.project-6:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-6 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 7 Styles*/
+.project-7{
+  position: relative;
+  text-align: center;
+}
+
+.project-7:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-7 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
+/*Portfolio: Project 8 Styles*/
+.project-8{
+  position: relative;
+  text-align: center;
+}
+
+.project-8:hover img{
+  opacity: 0.3;
+  transition: .5s ease;
+}
+
+.btn-8 {
+  position: absolute;
+  background-color: rgb(42, 42, 42);
+  color: rgb(246, 209, 160);
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-radius: 10px;
+  display: none;
+}
+
 /* .project-title-2 {
   position: absolute;
   font-size: 22px;
