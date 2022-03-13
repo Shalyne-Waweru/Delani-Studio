@@ -90,6 +90,11 @@
   margin-top: 30px;
 }
 
+/*What We Do:Design Section Styles*/
+.design-info {
+  display: none;
+}
+
 /*Portfolio Section Styles*/
 .portfolio {
   margin-bottom: 30px;
