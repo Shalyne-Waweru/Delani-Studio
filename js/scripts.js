@@ -9,4 +9,9 @@ $(document).ready(function(){
     $(".dev-info").toggle();
   });
 
+  $(".product").click(function() {
+    $(".product-icon").toggle();
+    $(".product-info").toggle();
+  });
+
 });

@@ -86,7 +86,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin-left: 130px;
+  margin-left: 100px;
   margin-top: 30px;
 }
 
@@ -97,6 +97,11 @@
 
 /*What We Do:Development Section Styles*/
 .dev-info {
+  display: none;
+}
+
+/*What We Do:Product Management Section Styles*/
+.product-info {
   display: none;
 }
 
