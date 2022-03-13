@@ -175,3 +175,11 @@ textarea {
 .social img {
   margin-left: 20px;
 }
+
+/*Footer Section Styles*/
+.footer {
+  margin-top: 30px;
+  text-align: center;
+  line-height: 0.6;
+  margin-bottom: 20px;
+}
