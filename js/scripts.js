@@ -55,10 +55,10 @@ $(document).ready(function(){
     let message = document.querySelector("textarea").value;
     
     if(inputName === ""){
-      alert("Enter you name!");
+      alert("Enter your name!");
     }
     else if (inputEmail === ""){
-      alert("Enter you email!");
+      alert("Enter your email!");
     }
     else if (message === ""){
       alert("Enter your message!");
