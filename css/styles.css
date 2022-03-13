@@ -95,6 +95,11 @@
   display: none;
 }
 
+/*What We Do:Development Section Styles*/
+.dev-info {
+  display: none;
+}
+
 /*Portfolio Section Styles*/
 .portfolio {
   margin-bottom: 30px;

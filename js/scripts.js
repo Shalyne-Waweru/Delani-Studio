@@ -4,4 +4,9 @@ $(document).ready(function(){
     $(".design-info").toggle();
   });
 
+  $(".development").click(function() {
+    $(".dev-icon").toggle();
+    $(".dev-info").toggle();
+  });
+
 });
