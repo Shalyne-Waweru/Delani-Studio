@@ -1,6 +1,9 @@
 # Delani-Studio
 ![](assets/delani-studio.png)
 
+## Project Description
+This project is a landing page for a fictional studio that implements jQuery on clicking the "What We Do" section icons to toggle between the respective description of each icon. It also includes a hover effect on the "Portfolio" section such that on hover a white box appears with then name of the project inside.
+
 ## Author
 - [Shalyne Waweru](https://github.com/Shalyne-Waweru)
 - Email: shalynewaweru@gmail.com
