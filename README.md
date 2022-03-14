@@ -8,6 +8,9 @@ This project is a landing page for a fictional studio that implements jQuery on 
 - [Shalyne Waweru](https://github.com/Shalyne-Waweru)
 - Email: shalynewaweru@gmail.com
 
+## Website Link
+- [Check it out here](https://shalyne-waweru.github.io/Delani-Studio/)
+
 ## Project setup instructions
 To start using this project use the following commands:
 
